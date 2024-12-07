@@ -1,6 +1,7 @@
 const rand = Math.floor(Math.random()*10)+1;
 let guess;
 
+
 while(true){
     guess = parseInt(prompt("Please Enter a number between 1 - 100"));
     if(guess=== rand){
@@ -36,3 +37,4 @@ do{
     console.log(number);
     number--;
 }while(number>1000);
+// we are going to learn JS tonight!
