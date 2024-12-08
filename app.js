@@ -102,4 +102,9 @@ switch(weather){
         console.log('maybe it is a different type of weather');
         break;
 }
+let successed = false;
+while(true){
+ let result = successed===true? true: false;
+ if(result) break;
+}
 // while loop
