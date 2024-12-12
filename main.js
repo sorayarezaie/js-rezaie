@@ -1,3 +1,5 @@
-for (let i = 10; i>=1; i--){
-    console.log(i);
-}
+
+
+let x = 10;
+ x = 40;
+document.write(x);
