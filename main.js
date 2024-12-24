@@ -17,7 +17,11 @@ console.log(typeof t);
 //console.log("my name is : " + name + " " + "and my position is : "+ pname);
 
 
-let fname = "Soraya";
-let lname = "Rezaie";
-console.log( `my firstname is ${fname} and my lastname is ${lname}`);
+//let fname = "Soraya";
+//let lname = "Rezaie";
+//console.log( `my firstname is ${fname} and my lastname is ${lname}`);
 
+
+let phnumber = "0795149503";
+let hnumber = "0794842517";
+console.log( `my phon number is ${phnumber} and my home number is ${hnumber}`);
