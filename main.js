@@ -55,10 +55,16 @@
 //}
 //console.log(obj);
 
-const obj = {
-    fname : "Ali",
-    lname :"Ahmadi",
-    id : 12
+//const obj = {
+ //   fname : "Ali",
+   // lname :"Ahmadi",
+   // id : 12
+//}
+//console.log(obj);
+//console.log(typeof obj);
+
+function greeting () {
+    console.log("hello");
+
 }
-console.log(obj);
-console.log(typeof obj);
+greeting ();
