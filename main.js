@@ -27,11 +27,15 @@
 //console.log( `my phon number is ${phnumber} and my home number is ${hnumber}`);
 
 
-let x = 2334;
-console.log(typeof x);
+//let x = 2334;
+//console.log(typeof x);
 
-let y = 34.7984;
+//let y = 34.7984;
+//console.log(typeof y);
+
+//let r = 57453848587480393902874n;
+//console.log(typeof r);
+
+let x = true;
+let y = false;
 console.log(typeof y);
-
-let r = 57453848587480393902874n;
-console.log(typeof r);
