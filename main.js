@@ -43,5 +43,22 @@
 //var x;
 //console.log(typeof x);
 
-const arr = ['Ali', 123, true];
-console.log( typeof arr);
+//const arr = ['Ali', 123, true,null];
+//console.log( typeof arr);
+//console.log(arr[0]);
+//console.log(arr[3]);
+
+//const obj = {
+  //  fname : "Soraya" ,
+    //lname : "Rezaie" ,
+    //age : 20,
+//}
+//console.log(obj);
+
+const obj = {
+    fname : "Ali",
+    lname :"Ahmadi",
+    id : 12
+}
+console.log(obj);
+console.log(typeof obj);
