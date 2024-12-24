@@ -36,6 +36,12 @@
 //let r = 57453848587480393902874n;
 //console.log(typeof r);
 
-let x = true;
-let y = false;
-console.log(typeof y);
+//let x = true;
+//let y = false;
+//console.log(typeof y);
+
+//var x;
+//console.log(typeof x);
+
+const arr = ['Ali', 123, true];
+console.log( typeof arr);
